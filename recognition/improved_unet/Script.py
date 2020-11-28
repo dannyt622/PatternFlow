@@ -1,8 +1,9 @@
-# -*- coding: utf-8 -*-
 """
-Created on Tue Sep 22 15:13:46 2020
-
-@author: s4563609
+File name: Script.py
+Author: HoYin Tong
+Date created: 23/10/2020
+Date last modified: 28/11/2020
+Python Version: 3.7.7
 """
 
 import tensorflow as tf

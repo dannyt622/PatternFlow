@@ -1,3 +1,11 @@
+"""
+File name: model.py
+Author: HoYin Tong
+Date created: 23/10/2020
+Date last modified: 28/11/2020
+Python Version: 3.7.7
+"""
+
 import tensorflow as tf
 
 """
